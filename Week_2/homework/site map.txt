@@ -1,0 +1,42 @@
+Home/Landing Page
+	-Recipes
+		-Appetizers and Snacks
+			-Dips and Spreads
+			-Cheese Appetizers
+			-Meat and Poulty Appetizers
+			-Spicy Appetizers
+			-...
+		-BBQ and Grilling
+			-BBQ & Grilled Beef
+			-BBQ & Grilled Chicken
+			-BBQ & Grilled Seafood
+			-...
+		-Bread Recipes
+			-Holiday Bread
+			-Pastries
+			-Pizza Dough and Crusts
+			-...
+		-Breakfast and Brunch
+			-Breakfast Eggs
+			-Breakfast Meat and Seafood
+			-Breakfast Drinks
+			-...
+		-Desserts
+			-Cookies
+			-Cake Recipes
+			-Fruit Desserts
+			-...
+		-Dinner Recipes
+			-Main Dishes
+			-Baked and Roasted Chicken
+			-Beef Steaks
+			-...
+		-Drinks
+			-Cocktails
+			-Smoothies
+			-Punch
+			-...
+		-...
+	-Search
+	-Create Profile
+	-More Options
