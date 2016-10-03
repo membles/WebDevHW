@@ -25,4 +25,4 @@ __Useful Concepts I Have Learned:__
 
 __Concepts I Need To Learn:__
 
-+ n0ne
++ Method to nagivate photos by using arrow keys or clicking arrows
