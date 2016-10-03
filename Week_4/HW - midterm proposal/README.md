@@ -26,7 +26,6 @@ __Website For Inspiration:__ [Discord](https://discordapp.com/)
 __Useful Concepts I Have Learned:__
 
 + Navigational bar
-+ Sidebar
 + CSS dropdown menu
 + CSS positioning
 + CSS transformations
