@@ -13,6 +13,8 @@ __Site Map:__
 
 __Wireframe:__
 
+__Website For Inspiration:__ [Discord](https://discordapp.com/)
+
 __Useful Concepts I Have Learned:__
 
 + Navigational bar
