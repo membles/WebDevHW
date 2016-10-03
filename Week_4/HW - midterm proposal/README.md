@@ -3,7 +3,7 @@
 I plan to make a website to act as a portfolio for both my school and personal projects. I will sort the projects using the following categories:
 
 + Web Dev
-+ 3D Models
++ 3D Modeling
 + Digital Art
 + Games
 
