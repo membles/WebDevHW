@@ -13,7 +13,13 @@ __Site Map:__
 
 ![Site Map](https://github.com/membles/WebDevHW/blob/master/Week_4/HW%20-%20midterm%20proposal/images/sitemap.png "Site Map")
 
-__Wireframe:__
+__Wireframes:__
+
+![Main Wireframe](https://github.com/membles/WebDevHW/blob/master/Week_4/HW%20-%20midterm%20proposal/images/wireframe%20main.jpg "Main Wireframe")
+
+![Category Wireframe](https://github.com/membles/WebDevHW/blob/master/Week_4/HW%20-%20midterm%20proposal/images/wireframe%20category.jpg "Category Wireframe")
+
+![Project Wireframe](https://github.com/membles/WebDevHW/blob/master/Week_4/HW%20-%20midterm%20proposal/images/wireframe%20project.jpg "Project Wireframe")
 
 __Website For Inspiration:__ [Discord](https://discordapp.com/)
 
