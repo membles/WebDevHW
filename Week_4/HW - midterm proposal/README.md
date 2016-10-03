@@ -11,6 +11,8 @@ Each category will get its own page. Each page will display projects as a grid o
 
 __Site Map:__
 
+![Site Map](https://github.com/membles/WebDevHW/blob/master/Week_4/HW%20-%20midterm%20proposal/images/sitemap.png "Site Map")
+
 __Wireframe:__
 
 __Website For Inspiration:__ [Discord](https://discordapp.com/)
