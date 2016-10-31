@@ -16,7 +16,8 @@ __Problems:__
 
 + Some things are slightly off-center (both horizontally and vertically)
 + Clickability on some text
-+ Slideshow animation skip
++ Image slider animation skip
++ Image slider changes url
 + Vertical center isn't perfect
 
 __Code Snippet:__
@@ -34,3 +35,4 @@ __Next Steps:__
 + Bug fixes
 + Style changes
 + Putting more content up
++ Better image slider navigation
