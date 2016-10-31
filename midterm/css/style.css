@@ -75,6 +75,18 @@ body{
     color: #888;
 }
 
+/*
+.thumbnail p a{
+	display:block;
+	text-decoration: none;
+}
+
+.thumbnail p a:hover{
+	border: 10px solid #222;
+    border-bottom: 45px solid #222;
+}
+*/
+
 .thumbnail img:hover{
     border: 10px solid #222;
     border-bottom: 45px solid #222;
