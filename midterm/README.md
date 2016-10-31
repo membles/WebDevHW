@@ -20,6 +20,10 @@ __Problems:__
 
 __Code Snippet:__
 
+Trying to fix text clickability:
+
+![Code](http://i.imgur.com/XpiOmZY.png)
+
 __Next Steps:__
 
 + Bug fixes
