@@ -14,7 +14,7 @@ __Initial Wireframes:__
 
 __Problems:__
 
-+ Some things are slightly off-center
++ Some things are slightly off-center (both horizontally and vertically)
 + Clickability on some text
 + Slideshow animation skip
 + Vertical center isn't perfect
