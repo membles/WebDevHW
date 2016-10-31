@@ -17,12 +17,17 @@ __Problems:__
 + Some things are slightly off-center
 + Clickability on some text
 + Slideshow animation skip
++ Vertical center isn't perfect
 
 __Code Snippet:__
 
 Trying to fix text clickability:
 
 ![Code](http://i.imgur.com/XpiOmZY.png)
+
+Trying to vertically center:
+
+![Code](http://i.imgur.com/nh7XFSz.png)
 
 __Next Steps:__
 
