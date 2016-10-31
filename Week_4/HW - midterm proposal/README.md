@@ -3,7 +3,7 @@
 I plan to make a website to act as a portfolio for both my school and personal projects. I will sort the projects using the following categories:
 
 + Web Dev
-+ 3D Models
++ 3D Modeling
 + Digital Art
 + Games
 
@@ -26,7 +26,6 @@ __Website For Inspiration:__ [Discord](https://discordapp.com/)
 __Useful Concepts I Have Learned:__
 
 + Navigational bar
-+ Sidebar
 + CSS dropdown menu
 + CSS positioning
 + CSS transformations
