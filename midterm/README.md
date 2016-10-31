@@ -21,3 +21,7 @@ __Problems:__
 __Code Snippet:__
 
 __Next Steps:__
+
++ Bug fixes
++ Style changes
++ Putting more content up
