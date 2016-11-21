@@ -22,8 +22,12 @@ __Wireframes:__
 
 ![Artist Work](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_2.png "Home Wireframe")
 
-__Website For Inspiration:__
+__Websites For Inspiration:__
 
-__Color Palette:__
+![Moo Website](https://www.moo.com/us/ "Moo")
+
+![Heroku](https://www.heroku.com/ "Heroku")
+
+![Salon](http://www.simonebsalon.com/ "Salon")
 
 __To Do List:__
