@@ -4,11 +4,11 @@ I plan to redesign my mom's website. She is an art dealer and uses her website t
 
 The main components of the site would be:
 
-+Upcoming Shows
-+Artists
-+Past Shows
-+News
-+Contact
++ Upcoming Shows
++ Artists
++ Past Shows
++ News
++ Contact
 
 __Site Map:__
 
