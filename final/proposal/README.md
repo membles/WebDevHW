@@ -12,6 +12,8 @@ The main components of the site would be:
 
 __Site Map:__
 
+![Site Map](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/sitemap.png "Site Map")
+
 __Wireframes:__
 
 __Website For Inspiration:__
