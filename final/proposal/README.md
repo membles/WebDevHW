@@ -18,7 +18,7 @@ __Site Map:__
 
 __Wireframes:__
 
-![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_1.png "Home Wireframe")
+![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_4.png "Home Wireframe")
 
 ![Artist Work](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_2.png "Home Wireframe")
 
