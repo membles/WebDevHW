@@ -24,10 +24,10 @@ __Wireframes:__
 
 __Websites For Inspiration:__
 
-![Moo Website](https://www.moo.com/us/ "Moo")
+[Heroku](https://www.heroku.com/ "Heroku")
 
-![Heroku](https://www.heroku.com/ "Heroku")
+[Moo](https://www.moo.com/us/ "Moo")
 
-![Salon](http://www.simonebsalon.com/ "Salon")
+[SimoneB Salon](http://www.simonebsalon.com/ "Salon")
 
 __To Do List:__
