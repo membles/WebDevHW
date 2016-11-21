@@ -31,3 +31,11 @@ __Websites For Inspiration:__
 [SimoneB Salon](http://www.simonebsalon.com/ "Salon")
 
 __To Do List:__
+
++ Nav Bar
++ Different pages
++ Lightbox effect
++ Update with new works from artists
++ New contact form
++ New inquiry form
++ featured artist of the day (javascript)
