@@ -39,3 +39,4 @@ __To Do List:__
 + New contact form
 + New inquiry form
 + featured artist of the day (javascript)
++ wordpress integration for news page
