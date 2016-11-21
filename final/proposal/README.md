@@ -37,6 +37,6 @@ __To Do List:__
 + Lightbox effect
 + Update with new works from artists
 + New contact form
-+ New inquiry form
++ New inquiry form (with fade effect)
 + featured artist of the day (javascript)
 + wordpress integration for news page
