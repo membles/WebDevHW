@@ -18,6 +18,8 @@ __Site Map:__
 
 __Wireframes:__
 
+![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_1.png "Home Wireframe")
+
 __Website For Inspiration:__
 
 __Color Palette:__
