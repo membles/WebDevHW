@@ -18,10 +18,24 @@ __Site Map:__
 
 __Wireframes:__
 
-![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_1.png "Home Wireframe")
+![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_3.png "Home Wireframe")
 
-__Website For Inspiration:__
+![Artist Work](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_2.png "Home Wireframe")
 
-__Color Palette:__
+__Websites For Inspiration:__
+
+[Heroku](https://www.heroku.com/ "Heroku")
+
+[Moo](https://www.moo.com/us/ "Moo")
+
+[SimoneB Salon](http://www.simonebsalon.com/ "Salon")
 
 __To Do List:__
+
++ Nav Bar
++ Different pages
++ Lightbox effect
++ Update with new works from artists
++ New contact form
++ New inquiry form
++ featured artist of the day (javascript)
