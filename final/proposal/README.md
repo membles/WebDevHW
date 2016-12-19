@@ -18,7 +18,7 @@ __Site Map:__
 
 __Wireframes:__
 
-![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_1.png "Home Wireframe")
+![Home Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_4.png "Home Wireframe")
 
 ![Artist Work](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_2.png "Home Wireframe")
 
@@ -37,5 +37,6 @@ __To Do List:__
 + Lightbox effect
 + Update with new works from artists
 + New contact form
-+ New inquiry form
++ New inquiry form (with fade effect)
 + featured artist of the day (javascript)
++ wordpress integration for news page
