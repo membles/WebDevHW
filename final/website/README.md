@@ -6,9 +6,9 @@ A redesign for my mom's website. She is an art dealer and advisor.
 
 __Initial Wireframes:__
 
-![Main Wireframe]()
+![Main Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_4.png)
 
-![Secondary Wireframe]()
+![Secondary Wireframe](https://raw.githubusercontent.com/membles/WebDevHW/master/final/proposal/images/wireframe_2.png)
 
 __Problems:__
 
