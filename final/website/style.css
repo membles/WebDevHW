@@ -170,7 +170,15 @@ slightly modified by me
 
 .logo{
 	position:relative;
-	top:20px;
+	font-family: 'Monoton', cursive;
+	font-size:36px;
+	color:#CEC489;
+	top:2px;
+	text-align: center;
+}
+
+.logo .kerning{
+	padding-right:0px;
 }
 
 .invite{
